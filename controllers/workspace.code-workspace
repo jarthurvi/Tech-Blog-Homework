@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../../gt-atl-virt-fsf-pt-08-2021-u-c"
+		},
+		{
+			"path": "../../ReadMe-Generator"
+		},
+		{
+			"path": "../../Employee-Profiles"
+		},
+		{
+			"path": "../../Note-Taker"
+		},
+		{
+			"path": "../../ORM-Homework"
+		},
+		{
+			"path": "../../../Tutor-Project-2"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Homework"
+	}
+}

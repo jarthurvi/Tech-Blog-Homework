@@ -17,11 +17,7 @@ header, .project:not(:last-child) {
   text-decoration: underline;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
-}
+
 
 .toolbar{
   display:flex;
@@ -31,7 +27,7 @@ header, .project:not(:last-child) {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #A45B37;
   text-decoration: none;
-  color: #CDBE6A !important;
+  color: #e6870a !important;
   align-items: center;
 }
 
@@ -48,7 +44,7 @@ a{
 .title{
   align-self:flex-start;
   width: 100%;
-  background-color: darkolivegreen;
+  background-color: rgb(219, 41, 17);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding:20px;
 }
